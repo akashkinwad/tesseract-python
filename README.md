@@ -3,6 +3,7 @@ Jupyter notebook code for Tesseract ocr to extract the images to text, box files
 
 #### link to install tesseract on ubantu 16.04
 https://www.linuxhelp.com/how-to-install-tesseract-ocr-on-ubuntu-16-04
+https://www.linux.com/blog/using-tesseract-ubuntu
 
 #### install pytesseract using pip
 https://pypi.org/project/pytesseract/
